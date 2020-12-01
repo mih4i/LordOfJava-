@@ -1,2 +1,2 @@
 # LordOfJava-
-Main class is TheLordOfJava
+main method is in TheLordOfJava
